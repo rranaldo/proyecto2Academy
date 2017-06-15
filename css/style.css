@@ -1,0 +1,92 @@
+p{
+    text-align: justify;
+}
+section#seccionTop{
+    background: url("../imagenes/fondoPrincipal.jpg") no-repeat center;
+    height: 450px;
+}
+.fondoNegro{
+    background-color: #333;
+}
+.fondoBlanco{
+    background-color: #ffffff;
+}
+.fondoNaranja{
+    background-color: #ffc122;
+}
+#seccionTop h3 {
+    color:#ffffff;
+}
+.img-border{
+    width: 100%;
+    border: #FFF solid 15px;
+    height: 250px;
+}
+#seccionTop h3 span {
+    color: #ffc122;
+}
+
+#seccionTop h1{
+    color: #ffffff;
+    text-shadow: 0 0 0.2em #000000;
+    margin: 50px 0 50px 0
+}
+#seccionA {
+    height: 380px;
+
+
+}
+#seccionB {
+   height: 380px;
+    color: #ffffff;
+    text-shadow: 0 0 0.2em #000000;
+
+}
+#seccionB h1{
+    font-weight: bold;
+    margin: 2% 0 3% 0;
+
+}
+#seccionB p{
+    font-size: 20px;
+}
+
+#seccionC h1{
+    font-weight: bold;
+    margin: 2% 0 3% 0;
+
+}
+
+#seccionC p{
+    font-size: 20px;
+}
+#seccionC img{
+    width: 100%;
+    height: 325px;
+
+}
+
+.search{
+    opacity: 0.75;
+    color: #ffffff;
+    font-size: 1.5em;
+    padding: 2.5% 2% 2.5% 2%;
+    text-shadow: 0 0 0.2em #000000;
+}
+#seccionTop .search {
+    display:inline-block;
+}
+.search #searching{
+    height: 35px;
+}
+
+.borde-fx{
+    border: #333 solid 28px;
+    border-radius: 50%;
+    font-size: 6em;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 15%;
+
+}
+
