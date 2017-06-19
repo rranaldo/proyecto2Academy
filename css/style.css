@@ -32,15 +32,14 @@ section#seccionTop{
     margin: 50px 0 50px 0
 }
 #seccionA {
-    height: 380px;
 
+    padding-bottom: 30px;
 
 }
 #seccionB {
-   height: 380px;
     color: #ffffff;
     text-shadow: 0 0 0.2em #000000;
-
+    padding-bottom: 30px;
 }
 #seccionB h1{
     font-weight: bold;
@@ -62,8 +61,31 @@ section#seccionTop{
 }
 #seccionC img{
     width: 100%;
-    height: 325px;
 
+}
+#seccionD{
+    color:white;
+}
+
+.ejecutivos {
+    width: 200px;
+    height: 200px;
+}
+#seccionD h1{
+    font-weight: bold;
+    margin: 2% 0 3% 0;
+
+}
+#seccionD ul{
+    color: white;
+    list-style: none;
+
+
+}
+#formBuscador {
+    display: inline-block;
+    padding-top: 25px;
+    padding-bottom:25px;
 }
 
 .search{
@@ -79,7 +101,9 @@ section#seccionTop{
 .search #searching{
     height: 35px;
 }
-
+.textoAmarillo {
+    color: #ffc122;
+}
 .borde-fx{
     border: #333 solid 28px;
     border-radius: 50%;
